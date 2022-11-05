@@ -1,0 +1,23 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "This is my web portfolio and showcases my current skill and work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetrudeau/webportfolio.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madetrudeau/webportfolio/issues"
+  },
+  "homepage": "https://github.com/madetrudeau/webportfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jest": "^29.2.2"
+  }
+}
